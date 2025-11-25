@@ -1,5 +1,6 @@
 Cyclist Performance & Usage Analysis — Excel Project
 🔍 Project Overview
+
 This project analyzes cyclist performance and usage patterns using Excel. The goal is to understand rider behavior, trip duration patterns, member vs. casual riders, and business insights.
 
 🛠 Skills Demonstrated
